@@ -3,10 +3,10 @@
 , "version": "0.2.3"
 , "title": "Modern CV, Resume and Portfolio website"
 , "description": "Best-in-Class website template for modern CV, Resume and Portfolio. Easy customizable static website with simple smart easy-to-use builder."
-, "homepage": "https://github.com/akhilrajmailbox/MyResume"
+, "homepage": "https://github.com/chethanrraj90/MyResume"
 , "license": "MIT"
 , "authors": [
-    "akhilrajmailbox@gmail.com"
+    "chethanrraj90@gmail.com"
   ]
 , "private": false
 , "main": ""
