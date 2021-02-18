@@ -4,7 +4,7 @@
   , {
       "selector": "#about .section-title"
     , "inclass":  "fadeInDown"
-    , "outclass": "fadeOutDown"
+    , "outclass": "fadeOutup"
     }
   , {
       "selector": ".intro-sub"
@@ -13,8 +13,8 @@
     }
   , {
       "selector": ".intro h1"
-    , "inclass":  "zoomIn"
-    , "outclass": "zoomOut"
+    , "inclass":  "zoomOut"
+    , "outclass": "zoomIn"
     }
   , {
       "selector": ".intro p"
