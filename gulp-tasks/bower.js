@@ -1,7 +1,7 @@
 /*!
  * Project:     cv
  * File:        ./gulp-tasks/bower.js
- * Copyright(c) 2018-present Akhil Raj <akhilrajmailbox@gmail.com>
+ * Copyright(c) 2021-present Chethan R <chethanrraj90@gmail.com>
  * License:     MIT
  */
 
