@@ -3,18 +3,18 @@
   "version": "0.2.4",
   "title": "Modern CV, Resume and Portfolio website",
   "description": "Best-in-Class website template for modern CV, Resume and Portfolio. Easy customizable All-in-One-Page static website with simple and smart builder.",
-  "homepage": "https://github.com/akhilrajmailbox/MyResume",
-  "bugs": "https://github.com/akhilrajmailbox/MyResume/issues",
+  "homepage": "https://github.com/chethanrraj90/MyResume",
+  "bugs": "https://github.com/chethanrraj90/MyResume/issues",
   "license": "MIT",
   "author": {
-    "name": "Akhil Raj",
-    "email": "akhilrajmailbox@gmail.com",
-    "url": "https://github.com/akhilrajmailbox"
+    "name": "Chethan R",
+    "email": "chethanrraj90@gmail.com",
+    "url": "https://github.com/chethanrraj90"
   },
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akhilrajmailbox/MyResume.git"
+    "url": "git+https://github.com/chethanrraj90/MyResume.git"
   },
   "website": "http://bit.ly/tomascv",
   "readmeFilename": "README.md",
