@@ -1,7 +1,7 @@
 /*!
  * Project:     cv
  * File:        ./gulpfile.js
- * Copyright(c) 2016-present Akhil Raj <akhilrajmailbox@gmail.com>
+ * Copyright(c) 2021-present Chethan R <Chethanrraj90@gmail.com>
  * License:     MIT
  */
 
