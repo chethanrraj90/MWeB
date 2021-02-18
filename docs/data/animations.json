@@ -8,8 +8,8 @@
     }
   , {
       "selector": ".intro-sub"
-    , "inclass":  "zoomInUp"
-    , "outclass": "zoomOutDown"
+    , "inclass":  "zoomInDown"
+    , "outclass": "zoomOutup"
     }
   , {
       "selector": ".intro h1"
