@@ -1,7 +1,7 @@
 /*!
  * Project:     cv
  * File:        ./gulp-tasks/build/css.js
- * Copyright(c) 2016-nowdays Akhil Raj <akhilrajmailbox@gmail.com>
+ * Copyright(c) 2016-nowdays Chethan R <chethanrraj90@gmail.com>
  * License:     MIT
  */
 
