@@ -1,13 +1,13 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Project:  cv@0.2.4 - Modern CV, Resume and Portfolio website
- * Homepage: https://github.com/akhilrajmailbox/MyResume
+ * Homepage: https://github.com/chethanrraj90/MyResume
  * License:  MIT
  * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  */
 /*!
  * Project:     cv
  * File:        ./assets/js/front/theme.js
- * Copyright(c) 2016-present Akhil Raj <akhilrajmailbox@gmail.com>
+ * Copyright(c) 2021-present Chethan R <chethanrraj90@gmail.com>
  * License:     MIT
  */
 /*!
@@ -32,6 +32,6 @@ var jQuery=jQuery||window.jQuery||window.$;jQuery((function(e){"use strict";e(wi
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Package:  cv@0.2.4
  * Build:    production-b2
- * Compiled: 2020-02-04T15:00:30 UTC
+ * Compiled: 2021-02-04T15:00:30 UTC
  * Commit:   68976695d61ccc3db336b04685aa8cc4d6417950
  */
