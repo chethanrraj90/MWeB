@@ -4,7 +4,7 @@
   , {
       "selector": "#about .section-title"
     , "inclass":  "fadeInDown"
-    , "outclass": "fadeOutup"
+    , "outclass": "fadeOutDown"
     }
   , {
       "selector": ".intro-sub"
