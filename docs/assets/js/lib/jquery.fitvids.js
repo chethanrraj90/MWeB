@@ -1,13 +1,13 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Project:  cv@0.2.4 - Modern CV, Resume and Portfolio website
- * Homepage: https://github.com/akhilrajmailbox/MyResume
+ * Homepage: https://github.com/chethanrraj90/MyResume
  * License:  MIT
  * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  */
 /*!
 * FitVids 1.1
 *
-* Copyright 2013, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
+* Copyright 2021, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
 * Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
 * Released under the WTFPL license - http://sam.zoy.org/wtfpl/
 *
@@ -16,6 +16,6 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Package:  cv@0.2.4
  * Build:    production-b2
- * Compiled: 2020-02-04T15:00:30 UTC
+ * Compiled: 2021-02-04T15:00:30 UTC
  * Commit:   68976695d61ccc3db336b04685aa8cc4d6417950
  */
