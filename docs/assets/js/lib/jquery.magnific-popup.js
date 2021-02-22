@@ -1,6 +1,6 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Project:  cv@0.2.4 - Modern CV, Resume and Portfolio website
- * Homepage: https://github.com/akhilrajmailbox/MyResume
+ * Homepage: https://github.com/chethanrraj90/MyResume
  * License:  MIT
  * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  */
