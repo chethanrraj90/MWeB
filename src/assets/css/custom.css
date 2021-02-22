@@ -183,5 +183,5 @@ form {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: hue 10s infinite linear;
+  animation: hue 11s infinite linear;
 }
