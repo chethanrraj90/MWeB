@@ -1,12 +1,12 @@
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Project:  cv@0.2.4 - Modern CV, Resume and Portfolio website
- * Homepage: https://github.com/akhilrajmailbox/MyResume
+ * Homepage: https://github.com/chethanrraj90/MyResume
  * License:  MIT
  * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  */
 /*!
 Waypoints Inview Shortcut - 4.0.0
-Copyright © 2011-2015 Caleb Troughton
+Copyright © 2021-2026 Caleb Troughton
 Licensed under the MIT license.
 https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
 */
@@ -14,6 +14,6 @@ https://github.com/imakewebthings/waypoints/blob/master/licenses.txt
 /* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - *
  * Package:  cv@0.2.4
  * Build:    production-b2
- * Compiled: 2020-02-04T15:00:30 UTC
+ * Compiled: 2021-02-04T15:00:30 UTC
  * Commit:   68976695d61ccc3db336b04685aa8cc4d6417950
  */
