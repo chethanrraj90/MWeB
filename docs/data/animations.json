@@ -102,7 +102,7 @@
     , "outclass": "fadeOutRight"
     }
   , {
-      "selector": "#whatido p"
+      "selector": "#whatido-p"
     , "inclass":  "fadeInLeft"
     , "outclass": "fadeOutLeft"
     }
