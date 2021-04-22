@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="enl" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="ie8"> <![endif]--> 
+<!--[if IE 9]> <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="ie9"> <![endif]-->
+<!--[if IE 10]> <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="ie10"> <![endif]--> 
+<!--[if !IE]><!--> <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class="noie"> <!--<![endif]--> 
+
+<head> 
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title> Chethan R's  :: Website </title>
+
+<meta name="viewport" content="width=device-width,
+initial-scale=1,maximum-scale=3,
+user-scalable=yes">
+
+<meta name="author" content="Chethan R"> <meta name="description" content="Personal Resume of Chethan R"> <meta name="generator" content="cv-template v0.2.2"> 
+<meta name="keywords" content="cv, resume, portfolio-website, IT, curriculum-vitae"> 
+<meta name="language" content="en"> <meta name="revisit-after" content="15 days"> 
+<meta name="robots" content="index, nofollow, noarchive"> 
+<meta name="title" content="Chethan R-  Website "> 
+<meta name="theme-color" content="#000000"> 
+
+<link rel="canonical" href="https://chethanrraj90/MyResume"> <link rel="manifest" href="/manifest.json"> 
+
+<meta property="og:locale" content="en_US"> 
+<meta property="og:type" content="website"> 
+<meta property="og:title" content="Chethan R - CV"> 
+<meta property="og:description" content="Personal Resume of Chethan R"> <meta property="og:image" content="assets/img/mypic-r.png"> 
+<meta property="og:image:type" content="image/png"> 
+<meta property="og:image:alt" content="Photo of Chethan R"> 
+<meta property="og:image:height" content="358"> <meta property="og:image:width" content="358"> <meta property="og:site_name" content="CV - Chethan R"> 
+<meta property="og:url" content="https://chethanrraj90/MyResume"> 
+<meta property="og:updated_time" content="2020-02-04T15:00:27+00:00"> <meta property="og:see_also" content="https://github.com/chethanrraj90"> 
+
+<link type="text/css" rel="stylesheet" media="screen" href="assets/css/bower-bundle.css" id="css-bower-bundle"> 
+
+<link type="text/css" rel="stylesheet" media="screen" href="assets/css/frontend-bundle.css" id="css-frontend-bundle"> <!--[if lt IE 9]>
+
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]--> 
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/img/ico/mypic-round-compressed.ico"> 
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/img/ico/mypic-round-compressed.ico"> 
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/img/ico/mypic-round-compressed.ico"> 
+<link rel="apple-touch-icon-precomposed" sizes="" href="assets/img/ico/mypic-round-compressed.ico"> 
+<link type="image/x-icon" href="assets/img/ico/mypic-round-compressed.ico" rel="icon"> 
+<link type="image/x-icon" href="assets/img/ico/mypic-round-compressed.ico" rel="shortcut icon"> 
+
+</head> 
+
+<body data-spy="scroll" data-target="#navbar-custom" data-env="production"> 
+
+  <div id="tt-preloader"> 
+    <div id="pre-status"> 
+      <div class="preload-placeholder">
+      </div> 
+    </div> 
+  </div> 
+
+<section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.5"> 
+    <div class="intro"> 
+      <div class="intro-sub wow" data-wow-duration="3.0s" data-wow-delay="0.0s">Chethan R</div> 
+
+
+<h1 class="wow"
+data-wow-duration="2.7s" data-wow-delay="0.3s"> <span class="first">A </span> 
+<span class="">Student At DSU. </span></h1> 
+
+<p class="wow" 
+data-wow-duration="2.5s" data-wow-delay="0.5s"> #Web Technology         #Project  #Review </p> 
+
+      <div class="social-icons" 
+id="social-icons"> 
+          <ul class="list-inline"> 
+          <li class="wow" data-wow-duration="1.4s" data-wow-delay="1.6s"> 
+            <a target="_blank" rel="noopener" href="mailto:chethanrraj90@gmail.com">
+<i class="fas fa-envelope-square" title="Email account"></i>
+            </a> 
+          </li> 
+
+          <li class="wow" 
+data-wow-duration="1.6s" data-wow-delay="1.4s"> 
+          <a target="_blank" rel="noopener" href="https://github.com/chethanrraj90">
+<i class="fab fa-github" title="Github account"></i>
+          </a> 
+          </li>
+
+           <li class="wow" data-wow-duration="1.6s" data-wow-delay="1.4s"> 
+            <a target="_blank" rel="noopener" href="https://instagram.com/_._chethan.25_._?igshid=1i9exlswyw0an">
+<i class="fab fa-instagram" title="Instagram profile"></i>
+           </a>
+        </li>
+
+          <li class="wow" data-wow-duration="1.6s" data-wow-delay="1.4s"> 
+          <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/chethan-r-439325192">
+<i class="fab fa-linkedin" title="Linkedin profile"></i>
+           </a> 
+          </li> 
+
+         <li class="wow" data-wow-duration="2.0s" data-wow-delay="1.0s"> 
+            <a target="_blank" rel="noopener" href="https://mobile.twitter.com/chethan25420818">
+<i class="fab fa-twitter" title="Twitter account"></i>
+            </a> 
+          </li> 
+      </ul> 
+    </div> 
+  </div> 
+
+    <div class="mouse-icon"> 
+      <div class="wheel">
+      </div> 
+    </div> 
+</section> 
+
+  <header class="header" id="navbar-custom"> 
+    <nav class="navbar navbar-custom" role="navigation"> 
+      <div class="container"> 
+        <div class="navbar-header"> 
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse"> 
+            <span class="sr-only">Toggle navigation</span> 
+            <span class="icon-bar"></span>                                    <span class="icon-bar"></span> 
+            <span class="icon-bar"></span> 
+          </button> 
+          <a class="navbar-brand hidden" href="index.html"> 
+            <img class="hidden" src="assets/img/mypic-round.png" max-width="200px" max-height="46px" alt="Chethan&acute;R">                                  </a> 
+      </div> 
+
+      <div class="collapse navbar-collapse" id="custom-collapse"> 
+        <ul class="nav navbar-nav navbar-right" role="tablist"> 
+          <li><a href="#home">Home</a></li>                          <li><a href="#about">About</a></li> 
+         <li><a href="#resume">Resume</a></li>
+          <li><a href="#skills">Skills</a></li>     <li><a href="#contact">Contact</a></li> 
+       </ul> 
+      </div> 
+    </div> 
+  </nav> 
+</header> 
+
+<section id="about" class="about-section section-padding"> 
+<div class="container"> <h2 class="section-title wow" data-wow-duration="1.5s">Bio</h2> 
+
+      <div class="row"> 
+
+        <div class="col-md-4 
+col-md-push-8"> 
+          <div class="biography"> 
+            <div class="myphoto wow" 
+id="avatar" data-wow-duration="1.0s">           <img src="assets/img/Mypic_Bio.jpg" max-width="358px" max-height="358px" alt="Chethan R"> 
+        </div>
+        <ul class="list-check"> 
+          <li class="row"> 
+            <div class="col-xs-2 col-sm-6 col-md-2 col-lg-6"> 
+            <i class="fa fa-fw fa-id-badge"></i>                    <strong class="hidden-xs hidden-md">Name:</strong> 
+            </div> 
+        <div class="col-xs-10 col-sm-6 col-md-10 col-lg-6">
+<span>Chethan R</span>
+        </div> 
+           </li> 
+          <li class="row"> 
+            <div class="col-xs-2 col-sm-6 col-md-2 col-lg-6"> 
+              <i class="fa fa-fw fa-calendar"></i>           <strong class="hidden-xs hidden-md">Birth:</strong> 
+           </div> 
+          <div class="col-xs-10 col-sm-6 col-md-10 col-lg-6">Dec 2001
+         </div> 
+       </li> 
+          <li class="row"> 
+            <div class="col-xs-2 col-sm-6 col-md-2 col-lg-6"> 
+              <i class="fa fa-fw fa-home"></i> <strong class="hidden-xs hidden-md">Location:</strong> 
+          </div> 
+          <div class="col-xs-10 col-sm-6 col-md-10 col-lg-6">Bengaluru,India</div>         </li> 
+
+          <li class="row"> 
+           <div class="col-xs-2 col-sm-6 col-md-2 col-lg-6"> 
+            <i class="fa fa-fw fa-globe"></i> <strong class="hidden-xs hidden-md">Citizenship:</strong> </div>     <div class="col-xs-10 col-sm-6 col-md-10 col-lg-6">Indian</div> 
+          </li> 
+          </ul> 
+        </div> 
+      </div> 
+
+<div class="col-md-8 col-md-pull-4">    <div class="short-info" id="About"> <h3 class="wow">About Me</h3> 
+<p class="wow">
+Hello!  I'm  Chethan, a undergraduate who enjoys building things that interact with people. Enthusiasm  to learn new things.Besides my passion for technology, I love to dance, travel, music, tv shows, and movies!.. . Always try to do my best in any  field and always  tries to be  appreciated  as  well performed . I am an ambitious, self-motivated and dedicated team player. </p>
+<p class="wow">"Art is dancing with chaos, and chaos is a friend of mine." The artist in me pushes me to learn of new ways to raise on creativity and user experiences. With a little technical expertise and the zeal to discover new possibilities, I prefer crafting clean, simple, elegant and lean codes.
+In my free time, I like to practice yoga and hang out with Friends , Family and Animals. Recently, I've been trying to lead a more sustainable lifestyle.</p>
+<p class="wow">Contact me to know more about me!!....
+</p> 
+</div>
+</div>
+</section> 
+
+<section id="resume" class="resume-section section-padding"> <div class="container"> 
+<h2 class="section-title wow" data-wow-duration="1.5s">Resume</h2> <div class="row"> <div class="col-md-12"> <div id="edu" class="resume-title wow"> 
+<h2 class="text-center text-primary">Education & Certification</h2> 
+</div><div class="resume"> 
+<ul class="timeline"> 
+<li class="timeline-inverted"> 
+<div class="posted-date"> 
+<span class="month hue">&nbsp;2017&nbsp;</span> 
+</div> 
+
+<div id="edu-04" class="panel panel-success timeline-panel wow" data-wow-duration="1.5s"> 
+<div class="timeline-content"> 
+<div class="panel-heading timeline-heading row"> 
+<div class="col-md-10 col-xs-9 pull-left"> <h3 class="panel-title">SSLC</h3> 
+<span class="text-primary"> - State Board</span> 
+</div> 
+<div class="col-md-2 col-xs-3 pull-right text-center"> 
+<i class="fas fa-3x fa-graduation-cap text-success">
+</i> 
+</div> 
+</div>
+<div class="panel-body timeline-body"> <p> St . Francis De Sales High school , Hebbagodi. <br> <strong>88</strong> - Percentage. 
+</p> 
+</div>
+</div> 
+</div> 
+</li> 
+
+<li class="Timeline-Inverted"> 
+<div class="posted-date"> 
+<span class="month hue">&nbsp;2019&nbsp;</span> 
+</div> 
+<div id="edu-03" class="panel panel-success timeline-panel wow" data-wow-duration="1.5s"> 
+<div class="timeline-content"> 
+<div class="panel-heading timeline-heading row"> 
+<div class="col-md-10 col-xs-9 pull-left"> <h3 class="panel-title"> PUC </h3> 
+<span class="text-danger"> - PCMB</span> </div> 
+<div class="col-md-2 col-xs-3 pull-right text-center"> 
+<i class="fas fa-3x fa-graduation-cap text-success">
+</i> 
+</div> 
+</div> 
+<div class="panel-body timeline-body"> <p>PCMB<br> St. Francis Composite PU College(State Board) , Koramangala.<br> <strong>82</strong> - Percentage </p>
+</div>
+</div>
+</div>
+</li>  
+        
+<li class="timeline-inverted"> 
+<div class="posted-date"> 
+<span class="month hue">&nbsp;2019-Now&nbsp;</span> 
+</div> 
+<div id="edu-02" class="panel panel-success timeline-panel wow" data-wow-duration="1.5s"> 
+<div class="timeline-content"> 
+<div class="panel-heading timeline-heading row"> 
+<div class="col-md-10 col-xs-9 pull-left"> <h3 class="panel-title">Bachelor's degree</h3> 
+<span class="text-primary"> - Computer science  and Engineering.</span> 
+</div> 
+<div class="col-md-2 col-xs-3 pull-right text-center"> 
+<i class="fas fa-3x fa-user-undergraduate text-success">
+</i> 
+</div> 
+</div> 
+<div class="panel-body timeline-body"> <p> <strong>Computer Science  and Engineering.<br> Dayananda Sagar University (DSU) , Kudlu gate. </strong> <br>  <br> 
+Solutions oriented and performance driven  i  am  currently  a  second  year undergraduate engineering student pursuing my bachelor's degree in Computer Science with specialization in Bioinformatics from DSU ,Bengaluru . Enrolled  in  its  4-year  integrated B Tech  course  With intuitive problem-solving skills, resolved pro-active approach and an optimistic intent, I look towards accomplishing my goals and objectives with full compassion, dedication and enthusiasm . <br> 
+</div> 
+</div> 
+</div> 
+</li>  
+
+<li class="Timeline-inverted"> <div class="posted-date"> 
+<span class="month hue">2020</span> 
+</div> 
+<div id="edu-01" class="panel panel-success timeline-panel wow" data-wow-duration="1.5s"> 
+<div class="timeline-content"> 
+<div class="panel-heading timeline-heading row"> 
+<div class="col-md-10 col-xs-9 pull-left"> <h3 class="panel-title">Coursera  Certifications</h3> 
+<span class="text-danger"> - PYTHON | IOT </span> 
+</div> 
+<div class="col-md-2 col-xs-3 pull-right text-center"> 
+<i class="fas fa-3x fa-user-graduate text-success">
+</i> 
+</div> 
+</div> 
+<div class="panel-body timeline-body"> <p> <strong>1. Python For Everbody(Getting Started With Python).<br></strong> UNIVERSITY OF MICHIGAN. <br> <strong>98.17</strong> - Percentage.  <br> </p> 
+<strong><p> 
+<a href="https://www.coursera.org/account/accomplishments/verify/Z32L5GV2ZWXW?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse" class="pill-button mt-3 mb-lg-0 col-sm-5 text-left"> [ Click  here  to  view certificate ] </a>
+ <br> 
+</p> 
+</strong>  <br> <br>  
+<p> 
+       <strong> 2. Introduction to the Internet of Things and Embedded Systems.<br>
+       </strong>  UNIVERSITY OF CALIFORNIA, IRVINE.<br> <strong>93.38</strong> - Percentage. <br> </p> 
+<strong>
+<p> 
+<a href="https://coursera.org/share/60146afa6df1186f355bd15067f71f61" class="pill-button mt-3 mb-lg-0 col-sm-5 text-left"> [ Click  here  to  view  certificate ] </a> 
+<br> 
+</strong> 
+</p>   
+</div> 
+</div>
+ </div> 
+</li>  
+
+<li class="timeline-inverted"> 
+<div class="posted-date"> 
+<span class="month hue">&nbsp;2021-Now&nbsp;</span> 
+<span class="month hue">
+<i class="fas fa-1x fa-heart hue">
+</i>
+</span> 
+</div> 
+<div id="edu-04" class="panel panel-success timeline-panel wow" data-wow-duration="1.5s"> 
+<div class="timeline-content"> 
+<div class="panel-heading timeline-heading row"> 
+<div class="col-md-10 col-xs-9 pull-left"> <h3 class="panel-title">EXPERIENCE</h3> <span class="text-primary"> - Website Creation Team.
+</span> 
+</div> 
+<div class="col-md-2 col-xs-3 pull-right text-center"> 
+<i class="fas fa-3x fa-graduation-cap text-success">
+</i> 
+</div> 
+</div>
+<div class="panel-body timeline-body"> <p> Recently i  have joined  as  a  Student  Coordinator  for <strong>ICICC-2021</strong> conference website creation team . <br> </p> 
+</div> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+</section> 
+
+<section id="skills" class="skills-section section-padding"> 
+<div class="container"> 
+<h2 class="section-title wow">Skills</h2> <div class="skill-chart text-center"> <h3>Technical</h3> 
+</div> 
+<div class="row"> 
+<div class="col-md-6"> 
+<div class="skill-progress"> 
+<div class="skill-title"> 
+<i class="fab fa-code"></i> <span>C</span> 
+</div> 
+<div class="progress"> 
+<div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"> <span>95%</span> </div> 
+</div> 
+</div> 
+<div class="skill-progress"> <div class="skill-title"> <i class="fa fa-2x fa-fw fa-python"></i> <span>Python</span> 
+</div> 
+<div class="progress"> <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="86" aria-valuemin="0" aria-valuemax="100"> <span>86%</span> 
+</div> 
+</div> 
+</div> 
+
+          <div class="skill-progress">
+            <div class="skill-title">
+              <i class="fab fa-2x fa-fw fa-css3-alt"></i>
+              <span>CSS3</span>
+            </div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="87" aria-valuemin="0" aria-valuemax="100">
+                <span>87%</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="skill-progress">
+            <div class="skill-title">
+              <i class="fab fa-2x fa-fw fa-html5"></i>
+              <span>HTML5</span>
+            </div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="89" aria-valuemin="0" aria-valuemax="100">
+                <span>89%</span>
+              </div>
+            </div>
+          </div>
+<div class="skill-progress"> 
+<div class="skill-title"> 
+<i class="fab fa-2x fa-fw fa-java">
+</i> <span>Java</span> 
+</div> 
+<div class="progress"> 
+<div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="93" aria-valuemin="0" aria-valuemax="100"> <span>93%</span> </div> 
+</div> 
+</div> 
+<div class="skill-progress">
+            <div class="skill-title">
+              <i class="fab fa-2x fa-fw fa-js"></i>
+              <span>JavaScript</span>
+            </div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="91" aria-valuemin="0" aria-valuemax="100">
+                <span>91%</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="skill-progress">
+            <div class="skill-title">
+              <i class="fab fa-2x fa-fw fa-mdb fa-mongodb"></i>
+              <span>MongoDB</span>
+            </div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100">
+                <span>72%</span>
+              </div>
+            </div><!--/ /.progress /-->
+          </div><!--/ /.skill-progress /-->
+
+          
+
+          <div class="skill-progress">
+            <div class="skill-title">
+              <i class="fab fa-2x fa-fw fa-node-js"></i>
+              <span>Node.js</span>
+            </div>
+            <div class="progress">
+              <div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100">
+                <span>88%</span>
+              </div>
+            </div>
+          </div>
+
+<div class="skill-progress"> 
+<div class="skill-title"> <i class="fab fa-2x fa-fw fa-github">
+</i> 
+<span>Github</span> 
+</div> 
+<div class="progress"> 
+<div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"> <span>88%</span> </div> 
+</div> 
+</div> 
+<div class="skill-progress"> <div class="skill-title"> 
+<i class="fab fa-2x fa-fw fa-linux"></i> <span>Ubuntu</span> 
+</div> 
+<div class="progress"> 
+<div class="progress-bar six-sec-ease-in-out" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"> <span>85%</span> </div> 
+</div> 
+</div> 
+</div> 
+</div>
+<div class="skill-chart text-center"> <h3>Emotional</h3> 
+</div> 
+<div class="row more-skill text-center"> <div class="col-xs-12 col-sm-6 col-md-3"> 
+<div class="chart" data-percent="78" data-color="e74c3c"> 
+<span class="percent"></span> 
+<div class="chart-text"> <span>Communication</span> 
+</div> 
+</div> 
+</div> 
+<div class="col-xs-12 col-sm-6 col-md-3"> 
+<div class="chart" data-percent="84" data-color="2ecc71"> 
+<span class="percent"></span> 
+<div class="chart-text"> 
+<span>Creativity</span> 
+</div> 
+</div> 
+</div> 
+<div class="col-xs-12 col-sm-6 col-md-3"> 
+<div class="chart" data-percent="75" data-color="3498db"> 
+<span class="percent"></span> 
+<div class="chart-text"> <span>Leadership</span> 
+</div> 
+</div> 
+</div> 
+<div class="col-xs-12 col-sm-6 col-md-3"> 
+<div class="chart" data-percent="92" data-color="3498db"> 
+<span class="percent"></span> 
+<div class="chart-text"> 
+<span>Problem Solving</span> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</section>  
+
+<section id="contact" class="contact-section section-padding"> <div class="container"> 
+<h2 class="section-title wow">Get in touch</h2> 
+<div class="row"> <div class="col-xs-12 col-md-6">  
+<p> <strong>DON'T BE SHY !....</strong><br>
+Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions . You can contact me anywhere in my social media . I would love to hear from you and gald to colloaborate with you on any type of project. 
+</p> <br> 
+<div class="contact-form"> 
+<strong>Send me a short message</strong> <form id="my-form" name="contact-form" action="https://formspree.io/xjvgqzql" method="POST"> 
+<div class="form-group"> 
+<label for="name">Name</label> 
+<input id="name" name="name" type="text" class="form-control" autocomplete="name" required> 
+</div> 
+<div class="form-group"> 
+<label for="email">Email</label> 
+<input id="email" name="email" type="email" class="form-control" autocomplete="email" required> 
+</div> 
+<div class="form-group"> 
+<label for="subject">Subject</label>
+<input id="subject" name="subject" type="text" class="form-control"> 
+</div> <div class="form-group"> 
+<label for="message">Message</label> <textarea id="message" name="message" class="form-control" rows="5" required=""></textarea> 
+</div> 
+<button id="my-form-button" type="submit" name="submit" class="btn btn-primary">Send</button> 
+<p id="my-form-status"></p> 
+</form> 
+</div> 
+</div> 
+<div class="col-xs-12 col-md-6"> 
+<div class="row center-xs"> 
+<div class="col-xs-6 col-sm-6"> 
+<i class="fa fa-at"></i> 
+<div class="contact-number"> 
+<strong class="hidden-xs">Email:</strong>
+<a href="mailto:chethanrraj90@gmail.com" name="contact-email">Contact Me</a>
+</div>
+</div> 
+</div> 
+</section> 
+
+<footer class="footer-wrapper"> 
+<div class="container"> 
+<div class="row"> 
+<div class="hidden-xs col-sm-4 col-md-4"> 
+<div class="copyright text-left"> 
+<p class=""> 
+<a href="https://github.com/chethanrraj90" target="_blank" rel="noopener">MIT Licensed</a>
+</p> 
+</div> 
+</div> 
+<div class="col-xs-10 col-sm-4 col-md-4"> 
+<div class="copyright text-center"> 2021 &copy; Chethan R 
+</div> 
+</div> 
+<div class="col-xs-2 col-sm-4 col-md-4"> <div class="copyright text-right"> 
+<small class="hidden-xs">76c6</small> <span class="hidden-xs label label-success label-sm">v0.2.4-b2
+</span> 
+<small class="hidden-xs">2021-02-04
+</small> 
+</div> 
+</div> 
+</div> 
+</div> 
+</footer> 
+<div class="scroll-up"> 
+<a href="#home">
+<i class="fa fa-angle-up">
+</i>
+</a> 
+</div> 
+<script src="assets/js/contact.js"></script> <script src="assets/js/lib/jquery.js"></script> 
+<script src="assets/js/lib/bootstrap.js"></script> 
+<script src="assets/js/lib/jquery.waypoints.js"></script> 
+<script src="assets/js/lib/inview.js"></script> 
+<script src="assets/js/lib/jquery.stellar.js"></script> 
+<script src="assets/js/lib/jquery.sticky.js"></script> 
+<script src="assets/js/lib/wow.js"></script> <script src="assets/js/lib/jquery.inview.js"></script> 
+<script src="assets/js/lib/jquery.countTo.js"></script> 
+<script src="assets/js/lib/jquery.easypiechart.js"></script> 
+<script src="assets/js/lib/shuffle.js"></script> 
+<script src="assets/js/lib/jquery.magnific-popup.js"></script> 
+<script async src="assets/js/lib/smoothscroll.js"></script> 
+<script async src="assets/js/lib/jquery.noty.packaged.js"></script> 
+<script defer="defer" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;key=YOUR_GOOGLE_MAPS_KEY&amp;libraries=visualization"></script> 
+<script defer="defer" src="assets/js/front/theme.js"></script> 
+<script defer="defer" src="assets/js/front/index.js">
+</script>
+</body>
+</html>
